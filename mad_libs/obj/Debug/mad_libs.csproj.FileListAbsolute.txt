@@ -1,0 +1,8 @@
+C:\Users\Rob\source\repos\mad_libs\mad_libs\bin\Debug\mad_libs.exe.config
+C:\Users\Rob\source\repos\mad_libs\mad_libs\bin\Debug\mad_libs.exe
+C:\Users\Rob\source\repos\mad_libs\mad_libs\bin\Debug\mad_libs.pdb
+C:\Users\Rob\source\repos\mad_libs\mad_libs\obj\Debug\mad_libs.csproj.AssemblyReference.cache
+C:\Users\Rob\source\repos\mad_libs\mad_libs\obj\Debug\mad_libs.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rob\source\repos\mad_libs\mad_libs\obj\Debug\mad_libs.csproj.CoreCompileInputs.cache
+C:\Users\Rob\source\repos\mad_libs\mad_libs\obj\Debug\mad_libs.exe
+C:\Users\Rob\source\repos\mad_libs\mad_libs\obj\Debug\mad_libs.pdb
